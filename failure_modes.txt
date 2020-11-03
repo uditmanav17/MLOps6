@@ -1,7 +1,0 @@
-|    | Original                                          | Perturbed                                         |   Model confidence |
-|---:|:--------------------------------------------------|:--------------------------------------------------|-------------------:|
-|  0 | Strongly recommend you go elsewhere.              | Strongly recommend you go elsw#here.              |           0.998656 |
-|  1 | I test drove it, it ran good.                     | I test drove it, it ran g0od.                     |           0.991739 |
-|  2 | In regards to car dealerships, this one is great! | In regards to car dealerships, this one is gdeat! |           0.985815 |
-|  3 | Sean is absolutely awful.                         | Sean is absolutely adful.                         |           0.985299 |
-|  4 | I have never purchased a vehicle so easily.       | I have never purchased a vehicle so 3asily.       |           0.947111 |
